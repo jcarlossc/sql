@@ -28,7 +28,7 @@ CREATE TABLE nomedatabela (
 );
 ```
 ## DROP TABLE é usada para descartar uma tabela existente em um banco de dados.
-````DROP TABLE nomedatabela;```
+```DROP TABLE nomedatabela;```
 ## TRUNCATE TABLE é usada para excluir os dados dentro de uma tabela, mas não a própria tabela:
 ```TRUNCATE TABLE `nomedatabela;```
 ## Continua....
